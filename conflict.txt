@@ -1,1 +1,1 @@
-Change in first clone
+Conflicting change in second clone
